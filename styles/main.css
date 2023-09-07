@@ -164,8 +164,9 @@ body {
 .main-body {
   background-image: url(http://royalpalmvilla.com.ng/themes/royal-palm-villa-v5/assets/img/demo/portfolio/85.jpg) !important;
   background-repeat: no-repeat;
-  background-size: 100% 700px;
-  height: 800px;
+  background-size: cover;
+  background-position: bottom;
+  height: 900px;
   width: 100%;
 }
 
@@ -205,7 +206,6 @@ body {
 .about {
   text-align: center;
   position: relative;
-  bottom: 50px;
 }
 
 .about-text {
